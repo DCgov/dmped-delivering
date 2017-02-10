@@ -34,9 +34,9 @@ navigation:
 - text: Media
   internal: true
   url: ./
-- text: Accomplishments Ticker
+- text: Accomplishments Tracker
   internal: true
-  url: accomplishments-ticker.html
+  url: accomplishments-tracker.html
 - text: The Closer
   internal: true
   url: the-closer.html
