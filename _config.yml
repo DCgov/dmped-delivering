@@ -31,12 +31,9 @@ logoalt: We Are Washington DC
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Media
+- text: DMPED Delivering
   internal: true
   url: ./
-- text: Accomplishments Tracker
-  internal: true
-  url: accomplishments-tracker.html
 - text: The Closer
   internal: true
   url: the-closer.html
