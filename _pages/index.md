@@ -4,7 +4,7 @@ permalink: /
 title: DMPED Delivering
 ---
 
-<tr>
+display(HTML("<table><tr>
 <td>
 <h3>Photo of the Week</h3>
 
@@ -18,7 +18,7 @@ title: DMPED Delivering
 
 <a href="https://twitter.com/DMPEDDC" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @DMPEDDC</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </td>
-</tr>
+</tr></table>"))
 
 
 <br>
