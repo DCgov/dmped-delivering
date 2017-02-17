@@ -15,7 +15,7 @@ title: DMPED Delivering
 
 <td>
 <a class="twitter-timeline" data-width="300" data-height="400" data-theme="dark" data-link-color="#bf0000" href="https://twitter.com/DMPEDDC">Tweets by DMPEDDC</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<br>
 <a href="https://twitter.com/DMPEDDC" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @DMPEDDC</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </td>
 </tr>
