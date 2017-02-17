@@ -4,7 +4,7 @@ permalink: /
 title: DMPED Delivering
 ---
 
-display(HTML("<table><tr>
+<table><tr>
 <td>
 <h3>Photo of the Week</h3>
 
@@ -18,10 +18,9 @@ display(HTML("<table><tr>
 
 <a href="https://twitter.com/DMPEDDC" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @DMPEDDC</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </td>
-</tr></table>"))
-
+</tr>
 
 <br>
-<iframe src="https://octo.quickbase.com/db/bjchz4q2e" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="800px"></iframe>
+<iframe src="https://octo.quickbase.com/db/bmit475rv?a=q&qid=8&dlta=pr~fl14.15.53.11.49.56.52.20.21.22.23.~&ridlist=13694" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="800px"></iframe>
 
 <br>
