@@ -40,24 +40,6 @@ navigation:
 - text: The Closer
   internal: true
   url: the-closer.html
-# - text: August 2016
-#   internal: true
-#   url: 08-2016.html
-# - text: July 2016
-#   internal: true
-#   url: 07-2016.html
-# - text: June 2016
-#   internal: true
-#   url: 06-2016.html
-# - text: May 2016
-#   internal: true
-#   url: 05-2016.html
-# - text: April 2016
-#   internal: true
-#   url: 04-2016.html
-# - text: March 2016
-#   internal: true
-#   url: 03-2016.html
 
 # Repo list
 # List repos that you would like to appear on the homepage here
@@ -66,7 +48,7 @@ repos:
   description:
   url: https://github.com/DCgov/dmped-delivering
 
-google_analytics_ua: UA-91483925-1
+google_analytics_ua: 
 
 # Style Variables
 brand_color: "#BF0000"
