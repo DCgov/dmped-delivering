@@ -1,0 +1,72 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: DMPED Delivering
+subtitle: 'Deputy Mayor for Planning & Economic Development | Muriel Bowser, Mayor'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Office of the Deputy Mayor for Planning and Economic Development
+  url: http://dmped.dc.gov
+
+# When using this template with a project (repository) page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+baseurl: '/dmped-delivering'
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: '/assets/img/we-are-wdc.png'
+logoalt: We Are Washington DC
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Media
+  internal: true
+  url: ./
+- text: Accomplishments Tracker
+  internal: true
+  url: accomplishments-tracker.html
+- text: The Closer
+  internal: true
+  url: the-closer.html
+# - text: August 2016
+#   internal: true
+#   url: 08-2016.html
+# - text: July 2016
+#   internal: true
+#   url: 07-2016.html
+# - text: June 2016
+#   internal: true
+#   url: 06-2016.html
+# - text: May 2016
+#   internal: true
+#   url: 05-2016.html
+# - text: April 2016
+#   internal: true
+#   url: 04-2016.html
+# - text: March 2016
+#   internal: true
+#   url: 03-2016.html
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: dmped-delivering
+  description:
+  url: https://github.com/DCgov/dmped-delivering
+
+google_analytics_ua: UA-91483925-1
+
+# Style Variables
+brand_color: "#BF0000"
