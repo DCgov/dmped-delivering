@@ -14,7 +14,7 @@ title: Accomplishments Tracker
     /* Formatting function for row details - modify as you need */
     function format ( d ) {
     // `d` is the original data object for the row
-        return '<b>Details:</b> '+d.Type+'<br><br><b>Business Unit: </b>'+d.business_unit+'<br><br><b>Real Estate Project: </b>'+d.PPD_Project_Name'<b>Industrial Revenue Bond Project:</b> '+d.IRB_Project_Name+'<br><br><b>More Information: </b>'+d.#_of_names;
+        return '<b>Details:</b> '+d.Details+'<br><br><b>Business Unit: </b>'+d.Business Unit+'<br><br><b>Real Estate Project: </b>'+d.PPD Project Name'<b>Industrial Revenue Bond Project:</b> '+d.IRB Project Name+'<br><br><b>More Information: </b>'+d.# of Links;
         }
 
     $(document).ready( function() {
