@@ -18,11 +18,3 @@ title: Accomplishments Tracker
 
 <br>
 
-<div style="float:left;">
-<a class="twitter-timeline" data-width="300" data-height="400" data-link-color="#bf0000" href="https://twitter.com/DMPEDDC">Tweets by DMPEDDC</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
-
-
-
-<br>
