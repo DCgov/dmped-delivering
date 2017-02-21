@@ -55,7 +55,3 @@ title: Accomplishments Tracker
     } );
 </script>
 
-
-
-<br>
-
