@@ -3,9 +3,6 @@ layout: page
 permalink: /
 title: Accomplishments Tracker
 ---
-<script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
-   <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
-
 
 <table id="accomplishment" class="display">
     <thead>
