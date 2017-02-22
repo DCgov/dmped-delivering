@@ -3,7 +3,6 @@ layout: page
 permalink: /
 title: Accomplishments Tracker
 ---
-
 <table id="accomplishment" class="display">
     <thead>
         <tr><th></th><th>Topic</th><th>Date</th><th>Job Creation</th><th>Tax Revenue</th><th>Aff. Housing</th><th>Good Gov't</th>
