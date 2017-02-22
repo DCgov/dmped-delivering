@@ -10,8 +10,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Economic Intelligence Roundtable - International Business",
@@ -23,7 +23,7 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
+   "Affordable Housing": "",
    "Good Gov't": "&#x2713;"
  },
  {
@@ -37,7 +37,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Washington Auto Show mobility panel",
@@ -47,10 +47,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "DMPED Cluster Open House",
@@ -60,9 +60,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
    "Good Gov't": "&#x2713;"
  },
  {
@@ -75,8 +75,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Bruce Monroe surplus and disposition approved",
@@ -89,7 +89,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Fort Totten Surplus and disposition",
@@ -102,7 +102,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Capitol Vista Surplus and disposition",
@@ -115,7 +115,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "MLK Gateway development team selected",
@@ -127,8 +127,8 @@
    "Number_of_Links": "1",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "McMillan Sand Filtration Site Goundbreaking",
@@ -141,7 +141,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "District�s first-ever Inclusive Innovation Report released",
@@ -152,9 +152,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "BEACON: The DC Women Founders Initiative launch",
@@ -165,9 +165,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Walter Reed received Deal of the Year award from African-America Real Estate Professionals (AAREP)",
@@ -180,7 +180,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Affordable Housing Preservation Strike Force Report released",
@@ -190,10 +190,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "no",
-   "Tax Revenue": "no",
+   "Job Creation": "",
+   "Tax Revenue": "",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Parcel 42 development team selected",
@@ -231,8 +231,8 @@
    "Number_of_Links": "1",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Walter Reed Campus transfer from Federal Governent",
@@ -245,7 +245,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "St Elizabeths R.I.S.E. Demonstration Center receives LEED-S Gold Certification",
@@ -256,9 +256,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Institute of World Politics Revenue Bond closing",
@@ -269,9 +269,9 @@
    "IRB_Project_Name": "Institute of World Politics",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "DC International School moves forward on Walter Reed campus",
@@ -282,9 +282,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Deanwood Hills groundbreaking - Offsite Lincoln Heights New Communities housing",
@@ -294,10 +294,10 @@
    "PPD_Project_Name": "NCI - Lincoln Heights - 5201 Hayes Street",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
-   "Tax Revenue": "no",
+   "Job Creation": "",
+   "Tax Revenue": "",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Economic Intelligence Roundtable on Inclusive Growth Metrics",
@@ -309,7 +309,7 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
+   "Affordable Housing": "",
    "Good Gov't": "&#x2713;"
  },
  {
@@ -323,7 +323,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Charming Beijing Photo Exhibition",
@@ -334,9 +334,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "C&O Canal revitalization funding",
@@ -347,9 +347,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Global Trilateral MBA  program with Howard University hosts students from China and South Africa.",
@@ -360,9 +360,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Work It! Studio reopens after receiving Great Streets funding.",
@@ -374,8 +374,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Economic Strategy Kickoff",
@@ -387,7 +387,7 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
+   "Affordable Housing": "",
    "Good Gov't": "&#x2713;"
  },
  {
@@ -401,7 +401,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "DMPED works with DISB to provide private fund advisors regulatory relief",
@@ -413,8 +413,8 @@
    "Number_of_Links": "1",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Grant and Revenue Bonds for Busboys and Poets and Far Southeast Family Support Collaborative on MLK Ave",
@@ -426,8 +426,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "IDEA Public Charter School Revenue Bon closing",
@@ -438,9 +438,9 @@
    "IRB_Project_Name": "IDEA PCS",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Plaza West affordable housing project groundbreaking",
@@ -451,9 +451,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
+   "Tax Revenue": "",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Northwest One first ourRFP community meeting held",
@@ -464,9 +464,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
+   "Tax Revenue": "",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Leading Age Revenue Bond closing",
@@ -477,9 +477,9 @@
    "IRB_Project_Name": "LeadingAge",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "1125 Spring Road OurRFP second public meeting held",
@@ -490,7 +490,7 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
+   "Tax Revenue": "",
    "Affordable Housing": "&#x2713;",
    "Good Gov't": "&#x2713;"
  },
@@ -504,8 +504,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "New Ward Indicators Tool",
@@ -515,9 +515,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
    "Good Gov't": "&#x2713;"
  },
  {
@@ -530,8 +530,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "First DC organization set up in Shanghai, China",
@@ -541,10 +541,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
+   "Job Creation": "",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "DMPED gets social (media)",
@@ -554,9 +554,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
    "Good Gov't": "&#x2713;"
  },
  {
@@ -568,9 +568,9 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "DMPED Economic Intelligence on Policy Viz podcast",
@@ -580,9 +580,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
    "Good Gov't": "&#x2713;"
  },
  {
@@ -593,10 +593,10 @@
    "PPD_Project_Name": "Saint Elizabeths Gateway Pavilion",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "no",
+   "Job Creation": "",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "DMPED awarded $5.3M in grants to over 90 Great Streets recipients",
@@ -608,8 +608,8 @@
    "Number_of_Links": "1",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "DC United Stadium construction starts",
@@ -621,8 +621,8 @@
    "Number_of_Links": "2",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "DMPED helped host Rock the Red Day to celebrate the Washington Capitals making the NHL playoffs",
@@ -632,10 +632,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "no",
+   "Job Creation": "",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "The Wharf named one of the Washington Business Journal's Best Deals of 2015",
@@ -648,7 +648,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Hine School named one of the Washington Business Journal's Best Deals of 2015",
@@ -661,7 +661,7 @@
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
    "Affordable Housing": "&#x2713;",
-   "Good Gov't": "no"
+   "Good Gov't": ""
  },
  {
    "Topic": "Advisory Board named Washington Business Journal's Best Public Deal of 2015",
@@ -673,8 +673,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "German Marshall Fund Revenue Bond closing",
@@ -685,9 +685,9 @@
    "IRB_Project_Name": "German Marshall Fund",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Friendship Public Charter School Revenue Bond closing",
@@ -698,9 +698,9 @@
    "IRB_Project_Name": "Friendship PCS",
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
-   "Tax Revenue": "no",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "International Spy Museum Revenue Bond closing",
@@ -712,8 +712,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "Franklin School development team selected",
@@ -725,8 +725,8 @@
    "Number_of_Links": "0",
    "Job Creation": "&#x2713;",
    "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "no",
-   "Good Gov't": "no"
+   "Affordable Housing": "",
+   "Good Gov't": ""
  }
 ]
 }
