@@ -1,0 +1,5 @@
+td.details-control {
+    cursor: pointer;
+}
+tr.details td.details-control {
+}
