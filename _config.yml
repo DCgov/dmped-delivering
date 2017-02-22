@@ -34,7 +34,7 @@ navigation:
 - text: DMPED Delivering
   internal: true
   url: ./
-- text: The Closer
+- text: DMPED Newsletter
   internal: true
   url: the-closer.html
 
