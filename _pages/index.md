@@ -29,7 +29,7 @@ title: Accomplishments Tracker
                 { "data": "Date"},
                 { "data": "Job Creation"},
                 { "data": "Tax Revenue"},
-                { "data": "<center>Affordable Housing</center>"},
+                { "data": "Affordable Housing"},
                 { "data": "Good Gov't"}
             ]
         } );
