@@ -12,7 +12,7 @@ title: Accomplishments Tracker
     /* Formatting function for row details - modify as you need */
     function format ( d ) {
     // `d` is the original data object for the row
-        return '<b>Details:</b> '+d.Details+'<br><br><b>Business Unit: </b>'+d.Business_Unit+'<br><br><b>Real Estate Project: </b>'+d.PPD_Project_Name+'<b>Industrial Revenue Bond Project:</b> '+d.IRB_Project_Name+'<br><br><b>More Information: </b>'+d.Number_of_Links;
+        return '<b>Details:</b> '+d.Details+'<br><br><b>Business Unit: </b>'+d.Business_Unit+'<br><br><b>More Information: </b>'+d.Number_of_Links;
         }
 
     $(document).ready( function() {
@@ -29,7 +29,7 @@ title: Accomplishments Tracker
                 { "data": "Date"},
                 { "data": "Job Creation"},
                 { "data": "Tax Revenue"},
-                { "data": "Affordable Housing"},
+                { "data": "<center>Affordable Housing</center>"},
                 { "data": "Good Gov't"}
             ]
         } );
