@@ -5,7 +5,7 @@ title: Accomplishments Tracker
 ---
 <table id="accomplishment" class="display">
     <thead>
-        <tr><th></th><th>Topic</th><th>Date</th><th>Job Creation</th><th>Tax Revenue</th><th>Aff. Housing</th><th>Good Gov't</th>
+        <tr><th></th><th>Topic</th><th>Date</th><th>Job Creation</th><th>Tax Revenue</th><th>Affordable Housing</th><th>Good Gov't</th>
 
  
 <script type="text/javascript">
@@ -29,7 +29,7 @@ title: Accomplishments Tracker
                 { "data": "Date"},
                 { "data": "Job Creation"},
                 { "data": "Tax Revenue"},
-                { "data": "Aff. Housing"},
+                { "data": "Affordable Housing"},
                 { "data": "Good Gov't"}
             ]
         } );

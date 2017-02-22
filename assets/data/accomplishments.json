@@ -10,7 +10,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -23,7 +23,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "yes"
  },
  {
@@ -36,7 +36,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -49,7 +49,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -62,7 +62,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "yes"
  },
  {
@@ -75,7 +75,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -88,7 +88,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -101,7 +101,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -114,7 +114,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -127,7 +127,7 @@
    "Number_of_Links": "1",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -140,7 +140,7 @@
    "Number_of_Links": "2",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -153,7 +153,7 @@
    "Number_of_Links": "2",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -166,7 +166,7 @@
    "Number_of_Links": "2",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -179,7 +179,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -192,7 +192,7 @@
    "Number_of_Links": "1",
    "Job Creation": "no",
    "Tax Revenue": "no",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -205,7 +205,7 @@
    "Number_of_Links": "2",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "yes"
  },
  {
@@ -218,7 +218,7 @@
    "Number_of_Links": "2",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "yes"
  },
  {
@@ -231,7 +231,7 @@
    "Number_of_Links": "1",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -244,7 +244,7 @@
    "Number_of_Links": "2",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -257,7 +257,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -270,7 +270,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -283,7 +283,7 @@
    "Number_of_Links": "1",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -296,7 +296,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "no",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -309,7 +309,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "yes"
  },
  {
@@ -322,7 +322,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -335,7 +335,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -348,7 +348,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -361,7 +361,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -374,7 +374,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -387,7 +387,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "yes"
  },
  {
@@ -400,7 +400,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -413,7 +413,7 @@
    "Number_of_Links": "1",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -426,7 +426,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -439,7 +439,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -452,7 +452,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -465,7 +465,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -478,7 +478,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -491,7 +491,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "yes"
  },
  {
@@ -504,7 +504,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -517,7 +517,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "yes"
  },
  {
@@ -530,7 +530,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -543,7 +543,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -556,7 +556,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "yes"
  },
  {
@@ -569,7 +569,7 @@
    "Number_of_Links": "1",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -582,7 +582,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "yes"
  },
  {
@@ -595,7 +595,7 @@
    "Number_of_Links": "0",
    "Job Creation": "no",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -608,7 +608,7 @@
    "Number_of_Links": "1",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -621,7 +621,7 @@
    "Number_of_Links": "2",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -634,7 +634,7 @@
    "Number_of_Links": "1",
    "Job Creation": "no",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -647,7 +647,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -660,7 +660,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "yes",
+   "Affordable Housing": "yes",
    "Good Gov't": "no"
  },
  {
@@ -673,7 +673,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -686,7 +686,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -699,7 +699,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "no",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -712,7 +712,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  },
  {
@@ -725,7 +725,7 @@
    "Number_of_Links": "0",
    "Job Creation": "yes",
    "Tax Revenue": "yes",
-   "Aff. Housing": "no",
+   "Affordable Housing": "no",
    "Good Gov't": "no"
  }
 ]
