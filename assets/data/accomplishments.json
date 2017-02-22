@@ -8,8 +8,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -21,10 +21,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
-   "Good Gov't": "&#x2713;"
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "Eastern Branch Boys and Girls Club OurRFP first public meeting held",
@@ -34,9 +34,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -63,7 +63,7 @@
    "Job Creation": "",
    "Tax Revenue": "",
    "Affordable Housing": "",
-   "Good Gov't": "&#x2713;"
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "DMPED attends Consumer Electronic Showcase",
@@ -73,8 +73,8 @@
    "PPD_Project_Name": "Franklin School",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -86,9 +86,9 @@
    "PPD_Project_Name": "NCI - Park Morton - Bruce Monroe School",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -99,9 +99,9 @@
    "PPD_Project_Name": "Fort Totten Triangle",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -112,9 +112,9 @@
    "PPD_Project_Name": "Capitol Vista",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -125,8 +125,8 @@
    "PPD_Project_Name": "MLK Gateway (Anacostia Gateway)",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -138,9 +138,9 @@
    "PPD_Project_Name": "McMillan Sand Filtration Site",
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -151,7 +151,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -164,7 +164,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -177,9 +177,9 @@
    "PPD_Project_Name": "Walter Reed",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -192,7 +192,7 @@
    "Number_of_Links": "1",
    "Job Creation": "",
    "Tax Revenue": "",
-   "Affordable Housing": "&#x2713;",
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -203,10 +203,10 @@
    "PPD_Project_Name": "Parcel 42",
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
-   "Good Gov't": "&#x2713;"
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "Crummell School development team selected",
@@ -216,10 +216,10 @@
    "PPD_Project_Name": "Crummell School",
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
-   "Good Gov't": "&#x2713;"
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "Doing Business Guide released",
@@ -229,8 +229,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -242,9 +242,9 @@
    "PPD_Project_Name": "Walter Reed",
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -255,7 +255,7 @@
    "PPD_Project_Name": "Saint Elizabeths Gateway Pavilion",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -268,7 +268,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "Institute of World Politics",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -281,7 +281,7 @@
    "PPD_Project_Name": "Walter Reed",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -296,7 +296,7 @@
    "Number_of_Links": "0",
    "Job Creation": "",
    "Tax Revenue": "",
-   "Affordable Housing": "&#x2713;",
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -307,10 +307,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
-   "Good Gov't": "&#x2713;"
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "Skyland Town TIF legislation to move project forward.",
@@ -320,9 +320,9 @@
    "PPD_Project_Name": "Skyland Town Center",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -333,7 +333,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -346,7 +346,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -359,7 +359,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -372,8 +372,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -385,10 +385,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
-   "Good Gov't": "&#x2713;"
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "901 H Street groundbreaking",
@@ -398,9 +398,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -411,8 +411,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -424,8 +424,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "Far Southeast Collaborative/Busboys and Poets",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -437,7 +437,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "IDEA PCS",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -450,9 +450,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
-   "Affordable Housing": "&#x2713;",
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -463,9 +463,9 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
-   "Affordable Housing": "&#x2713;",
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -476,7 +476,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "LeadingAge",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -489,10 +489,10 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
-   "Affordable Housing": "&#x2713;",
-   "Good Gov't": "&#x2713;"
+   "Affordable Housing": <center>"&#x2713;"</center>,
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "CityCenter Conrad hotel closing",
@@ -502,8 +502,8 @@
    "PPD_Project_Name": "CityCenter - Parcel B",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -518,7 +518,7 @@
    "Job Creation": "",
    "Tax Revenue": "",
    "Affordable Housing": "",
-   "Good Gov't": "&#x2713;"
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "St Elizabeths R.I.S.E. Center receives Preservation League Award",
@@ -528,8 +528,8 @@
    "PPD_Project_Name": "Saint Elizabeths Gateway Pavilion",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -542,7 +542,7 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "",
-   "Tax Revenue": "&#x2713;",
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -557,7 +557,7 @@
    "Job Creation": "",
    "Tax Revenue": "",
    "Affordable Housing": "",
-   "Good Gov't": "&#x2713;"
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "innoMAYtion",
@@ -567,7 +567,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -583,7 +583,7 @@
    "Job Creation": "",
    "Tax Revenue": "",
    "Affordable Housing": "",
-   "Good Gov't": "&#x2713;"
+   "Good Gov't": <center>"&#x2713;"</center>
  },
  {
    "Topic": "Broccoli City Festival held at St. Elizabeths East",
@@ -594,7 +594,7 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
    "Job Creation": "",
-   "Tax Revenue": "&#x2713;",
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -606,8 +606,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -619,8 +619,8 @@
    "PPD_Project_Name": "DC United Soccer Stadium ",
    "IRB_Project_Name": "",
    "Number_of_Links": "2",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -633,7 +633,7 @@
    "IRB_Project_Name": "",
    "Number_of_Links": "1",
    "Job Creation": "",
-   "Tax Revenue": "&#x2713;",
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -645,9 +645,9 @@
    "PPD_Project_Name": "The Wharf (Southwest Waterfront) Phase I",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -658,9 +658,9 @@
    "PPD_Project_Name": "Hine Junior High School",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
-   "Affordable Housing": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
+   "Affordable Housing": <center>"&#x2713;"</center>,
    "Good Gov't": ""
  },
  {
@@ -671,8 +671,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -684,7 +684,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "German Marshall Fund",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -697,7 +697,7 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "Friendship PCS",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
    "Tax Revenue": "",
    "Affordable Housing": "",
    "Good Gov't": ""
@@ -710,8 +710,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "Spy Museum",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  },
@@ -723,8 +723,8 @@
    "PPD_Project_Name": "",
    "IRB_Project_Name": "",
    "Number_of_Links": "0",
-   "Job Creation": "&#x2713;",
-   "Tax Revenue": "&#x2713;",
+   "Job Creation": <center>"&#x2713;"</center>,
+   "Tax Revenue": <center>"&#x2713;"</center>,
    "Affordable Housing": "",
    "Good Gov't": ""
  }
