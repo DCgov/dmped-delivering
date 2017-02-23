@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: Accomplishments Tracker
+title: Accomplishments Ticker
 ---
 <table id="accomplishment" class="display">
     <thead>
