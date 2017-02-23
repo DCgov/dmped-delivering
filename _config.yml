@@ -31,7 +31,7 @@ logoalt: We Are Washington DC
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: DMPED Delivering
+- text: Accomplishments Ticker
   internal: true
   url: ./
 - text: Newsletter
