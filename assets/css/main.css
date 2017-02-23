@@ -12,6 +12,10 @@ Normalize the box model
 ==================================
 */
 
+.govd_template_image {
+   display: block;
+}
+/*for the closer DM image*/
 *,
 *:before,
 *:after {
