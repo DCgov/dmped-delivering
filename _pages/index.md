@@ -12,7 +12,7 @@ title: Accomplishments Ticker
     /* Formatting function for row details - modify as you need */
     function format ( d ) {
     // `d` is the original data object for the row
-        return '<b>Details:</b> '+d.Details+'<br><br><b>Business Unit: </b>'+d.Business_Unit;
+        return '<b>Details:</b> '+d.Details+'<br><br><b>Business Unit: </b>'+d.Business_Unit+'<br><br><b>Links: </b>'+d.Links;
         }
 
     $(document).ready( function() {
