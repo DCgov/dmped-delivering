@@ -1,11 +1,55 @@
 {"data":
 [
  {
-   "Topic": "Launch of DC's Inclusive Innovation Incubator",
-   "Details": "In3, based on the campus of Howard U, will celebrate with a week full of events.",
-   "Links": "<a href= 'https://technical.ly/dc/2017/04/06/inclusive-innovation-incubator-launch/?utm_source=ap&utm_campaign=rr&utm_medium=related'>Technical.ly Article</a><br><a href= 'http://dcinno.streetwise.co/2017/04/10/what-to-expect-from-the-new-inclusive-innovation-incubator/'>DCInno Article</a><br><a href= 'http://www.in3dc.com/'>Project Website</a><br>",
+   "Topic": "3rd Annual #innoMAYtion ",
+   "Details": "The Office of the Deputy Mayor for Planning and Economic Development kicks off the  monthlong tech and entrepreneurship-focused initiative.",
+   "Links": "<a href= 'https://technical.ly/dc/2016/05/04/innomaytion/'>Technical.ly Article</a><br><a href= 'http://inno.bcodev.net/'>Project Website</a><br>",
+   "Date": "May 2017",
+   "Business_Unit": "DMPED General",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Groundbreaking on Square 769N",
+   "Details": "Bowser Administration works with DCHA to Continue Unprecedented Efforts to Produce and Preserve Affordable Housing.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-and-dc-housing-authority-break-ground-square-769n'>Press Release</a><br><a href= 'http://www.capitolriverfront.org/go/square-769n'>Project Website</a><br>",
+   "Date": "May 2017",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Walter Reed Dreams Community Block Party",
+   "Details": "Deputy Mayor for Planning and Economic Development, Brian Kenner,  joined Mayor Bowser, Councilmember Todd, and Ward 4 community members to celebrate the history and future of Walter Reed Army Medical Site.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-breaks-ground-parks-walter-reed'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=1&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://dmped.dc.gov/release/shovels-ground-walter-reed-heres-what-comes-next'>Washington Business Journal Article</a><br><a href= 'https://dmped.dc.gov/release/development-team-breaks-ground-66-acre-walter-reed-project'>BISNOWArticle</a><br><a href= 'https://dmped.dc.gov/release/cranewatch-walter-reed-development-among-dcs-biggest-redevelopment-projects'>NBC WashingtonArticle</a><br><a href= 'http://www.walterreedtomorrow.com/'>Project Website</a><br>",
+   "Date": "April 2017",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "First official visit to Middle East",
+   "Details": "Members of the Office of the Deputy Mayor for Planning and Economic Development visited Qatar and the United Arab Emirates for a Middle East Trade Mission.\n",
+   "Links": "<a href= 'http://www.bizjournals.com/washington/news/2017/04/21/d-c-officials-will-meet-with-middle-east-investors.html'>Washington Business Journal Article</a><br>",
    "Date": "April 2017",
    "Business_Unit": "Business Development",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "DC's First Inclusive Innovation Incubator Officially Opens",
+   "Details": "In3's Grand Opening 'Week of Welcome', brings together entrepreneurs, educators, government leaders and innovators.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/dc%E2%80%99s-first-inclusive-innovation-incubator-officially-opens'>Press Release</a><br><a href= 'https://technical.ly/dc/2017/04/06/inclusive-innovation-incubator-launch/?utm_source=ap&utm_campaign=rr&utm_medium=related'>Technical.ly Article</a><br><a href= 'http://dcinno.streetwise.co/2017/04/10/what-to-expect-from-the-new-inclusive-innovation-incubator/'>DCInnoArticle</a><br><a href= 'https://dmped.dc.gov/release/bowser-connects-entrepreneurs-innovators'>Washington InformerArticle</a><br><a href= 'http://www.in3dc.com/'>Project Website</a><br>",
+   "Date": "April 2017",
+   "Business_Unit": "",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
@@ -14,7 +58,7 @@
  {
    "Topic": "Eight Proposals Presented for Northwest One",
    "Details": "The Office of the Deputy Mayor of Planning and Economic Development (DMPED) is nearing the finish line on selecting a developer for the parcel.",
-   "Links": "<a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=105&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'http://dc.urbanturf.com/articles/blog/1000_apartments_a_charter_school_athletic_space_galore_the_proposals_nw1/12400'>Urban Turf Article</a><br><a href= 'http://www.bizjournals.com/washington/news/2017/04/05/development-teams-offer-school-ice-rink-and.html'>Washington Business Journal Article</a><br>",
+   "Links": "<a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=105&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'http://dc.urbanturf.com/articles/blog/1000_apartments_a_charter_school_athletic_space_galore_the_proposals_nw1/12400'>Urban Turf Article</a><br><a href= 'http://www.bizjournals.com/washington/news/2017/04/05/development-teams-offer-school-ice-rink-and.html'>Washington Business JournalArticle</a><br>",
    "Date": "April 2017",
    "Business_Unit": "Real Estate",
    "Job Creation": "&#x2713",
@@ -1178,7 +1222,7 @@
    "Good Gov't": ""
  },
  {
-   "Topic": "Hill East District Development Agreement Signed by Mayor Bowser",
+   "Topic": "Hill East District Development Agreement signed by Mayor Bowser",
    "Details": "Mayor Muriel Bowser, joined by Deputy Mayor for Planning and Economic Development Brian Kenner, signed her first Land Disposition Agreement (LDA) for a roughly 2 acre parcel of the Hill East District Development, a 67-acre site located between the eastern edge of the Capitol Hill neighborhood and the western shore of the Anacostia River.",
    "Links": "<a href= 'https://dc.gov/release/mayor-bowser-signs-administration%E2%80%99s-first-agreement-major-development-project'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=14&rl=3xb\n'>DMPED Project Details Page</a><br>",
    "Date": "March 2015",
