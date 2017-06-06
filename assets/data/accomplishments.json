@@ -1,9 +1,64 @@
 {"data":
 [
  {
+   "Topic": "#innoMAYtion Hackathon with Washington Post",
+   "Details": "InnoMAYtion hackathon focused on women and youth in STEM and Entrepreneurship",
+   "Links": "<a href= 'https://dmped.dc.gov/release/saturday%E2%80%99s-innomaytion-hackathon-will-focus-women-and-youth-stem'>Technical.ly Article</a><br><a href= 'https://nvite.com/innoMAYtion/4wy9dv'>Project Website</a><br>",
+   "Date": "May 2017",
+   "Business_Unit": "",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "South Capitol Street Apartments Groundbreaking",
+   "Details": "Project Includes 195 Affordable Units and 5,000 Square-Feet of Community Space",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-breaks-ground-south-capitol-street-apartments'>Press Release</a><br>",
+   "Date": "May 2017",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Neighborhood Prosperity Fund Launched",
+   "Details": "Pilot grant program now accepting applications, will spur economic development in underserved neighborhoods",
+   "Links": "<a href= 'https://dmped.dc.gov/release/neighborhood-prosperity-fund-launches-today'>Press Release</a><br><a href= 'https://dmped.dc.gov/page/request-applications-rfa-fy2017-neighborhood-prosperity-fund-npf'>Project Website</a><br>",
+   "Date": "May 2017",
+   "Business_Unit": "Business Development",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "New Fire and EMS Station and Affordable Housing Preservation Complex Opened at West End Square 50",
+   "Details": "New Mixed-Use Development Brings New Fire Station and More Affordable Housing to Foggy Bottom Neighborhood",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-opens-new-fire-and-ems-station-and-affordable-housing-preservation-complex-west'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=177&rl=3xb\n'>DMPED Project Details Page</a><br>",
+   "Date": "May 2017",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "DMPED creates a new blog for celebrating 'DC Stories'",
+   "Details": "The blog profiles community builders and local businesses.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/dmped-has-new-blog-celebrating-%E2%80%98dc-stories%E2%80%99'>Technical.ly DC Article</a><br>",
+   "Date": "May 2017",
+   "Business_Unit": "Communications",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
    "Topic": "3rd Annual #innoMAYtion ",
    "Details": "The Office of the Deputy Mayor for Planning and Economic Development kicks off the  monthlong tech and entrepreneurship-focused initiative.",
-   "Links": "<a href= 'https://technical.ly/dc/2016/05/04/innomaytion/'>Technical.ly Article</a><br><a href= 'http://inno.bcodev.net/'>Project Website</a><br>",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-kicks-third-annual-%E2%80%98innomaytion%E2%80%99'>Press Release</a><br><a href= 'https://technical.ly/dc/2016/05/04/innomaytion/'>Technical.ly Article</a><br><a href= 'http://inno.bcodev.net/'>Project Website</a><br>",
    "Date": "May 2017",
    "Business_Unit": "DMPED General",
    "Job Creation": "",
