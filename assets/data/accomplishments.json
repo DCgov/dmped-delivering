@@ -1,6 +1,6 @@
 {"data":
 [
-{
+ {
    "Topic": "DMPED Selects Developers for Former Eastern Branch Boys and Girls Club ",
    "Details": "Developments will bring multi-generational affordable housing and community benefits to Ward 6 neighborhoods",
    "Links": "<a href= 'https://dmped.dc.gov/release/dmped-selects-developers-former-eastern-branch-boys-and-girls-club-and-northwest-one'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=337&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://dmped.dc.gov/node/1214916'>Project Website</a><br>",
@@ -33,12 +33,12 @@
    "Affordable Housing": "&#x2713",
    "Good Gov't": ""
  },
-{
+ {
    "Topic": "D.C.'s food deserts get a $3M investment for new grocery options",
    "Details": "The Neighborhood Prosperity Fund, administered by DMPED, supports mixed-used, real estate, or retail development projects in targeted census tracts where unemployment is at 10 percent or higher.",
    "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-invests-3-million-bring-new-grocery-options-wards-7-and-8'>Press Release</a><br><a href= 'https://dc.curbed.com/2017/10/18/16497088/ward-7-8-grocery-muriel-bowser'>Curbed DC Article</a><br><a href= 'https://dmped.dc.gov/publication/dmped-neighborhood-prosperity-fund'>Project Website</a><br>",
    "Date": "October 2017",
-   "Business_Unit": "DMPED General, Executive Office of the Mayor",
+   "Business_Unit": "DMPED General;Executive Office of the Mayor",
    "Job Creation": "&#x2713",
    "Tax Revenue": "",
    "Affordable Housing": "",
@@ -49,7 +49,7 @@
    "Details": "Mayor Bowser announced the four locations that will be included in Washington, DC's response to Amazon's Request for Proposals (RFP) for its second headquarters, Amazon HQ2: Anacostia Riverfront, Capitol Hill East, Shaw-Howard University, and NoMa-Union Station.",
    "Links": "<a href= 'https://dmped.dc.gov/release/washington-dc-proposes-four-sites-amazon-hq2'>Press Release</a><br><a href= 'https://www.washingtonpost.com/news/digger/wp/2017/10/16/for-amazons-next-headquarters-d-c-pitches-four-of-its-trendiest-neighborhoods/?utm_term=.fef38c1697be'>The Washington Post Article</a><br><a href= 'https://www.usatoday.com/story/tech/2017/10/18/amazon-hq-2-headed-washington-d-c-could-serious-contender/776883001/'>USA TodayArticle</a><br><a href= 'https://dc.curbed.com/2017/10/27/16557462/amazon-headquarters-dc-thinkful'>Curbed DCArticle</a><br><a href= 'https://www.obviouslydc.com/'>Project Website</a><br>",
    "Date": "October 2017",
-   "Business_Unit": "DMPED General, Executive Office of the Mayor",
+   "Business_Unit": "DMPED General;Executive Office of the Mayor",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
@@ -64,6 +64,17 @@
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Mayor Bowser and DMPED Delegation Join Capital Region Joint Trade and Diplomatic Mission to Canada",
+   "Details": "Mayor Bowser joined Governor Terry McAuliffe and Maryland Governor Larry Hogan for a two-day joint tourism marketing mission to Canada.\n",
+   "Links": "<a href= 'https://dc.gov/release/mayor-bowser-joins-capital-region-joint-trade-and-diplomatic-mission-canada'>Press Release</a><br>",
+   "Date": "September 2017",
+   "Business_Unit": "Business Development",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
    "Good Gov't": ""
  },
  {
@@ -115,7 +126,7 @@
    "Details": "The second annual 202Creates is a citywide effort to showcase the District's diverse and vibrant creative community. ",
    "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-celebrate-202creates-throughout-september'>Press Release</a><br><a href= 'http://wamu.org/story/17/08/29/d-c-government-celebrates-creative-economy-throughout-september/'>WAMU Article</a><br><a href= 'https://georgetowner.com/articles/2017/08/31/fun-loud-launch-202-creates/'>GeorgetownerArticle</a><br><a href= 'http://www.202creates.com/'>Project Website</a><br>",
    "Date": "September 2017",
-   "Business_Unit": "DMPED General, Executive Office of the Mayor",
+   "Business_Unit": "DMPED General;Executive Office of the Mayor",
    "Job Creation": "",
    "Tax Revenue": "",
    "Affordable Housing": "",
@@ -133,6 +144,17 @@
    "Good Gov't": ""
  },
  {
+   "Topic": "Yelp Signs a Lease for New Office Space in DC",
+   "Details": "Mayor Muriel Bowser'and Yelp co-founder and CEO Jeremy Stoppelman announced that the global technology company has signed a lease for a new office in Washington, DC. The expansion will bring'500'new jobs to the District over a five-year period with at least'half'of the positions targeted for DC residents.'\n",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-announces-plans-yelp-expand-washington-dc'>Press Release</a><br>",
+   "Date": "August 2017",
+   "Business_Unit": "Business Development;DMPED General",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": ""
+ },
+ {
    "Topic": "2017 Great Streets Grant Recipients Announced",
    "Details": "Mayor Bowser and Deputy Mayor Kenner delivered remarks at the 2nd Annual Great Streets Conference and recognized FY17 grant recipients. There are a total of 98 grantees funded in FY17 receiving over $4.7 million in grant monies.",
    "Links": "<a href= 'https://dmped.dc.gov/release/mayor/mayor-bowser-announce-great-streets-grant-recipients-0'>Press Release</a><br><a href= 'https://greatstreets.dc.gov/'>Project Website</a><br>",
@@ -142,6 +164,17 @@
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
    "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser and DM Kenner Announce New Tech Job Training Opportunities",
+   "Details": "Innovative Agreement Will Train More Than 100 DC Residents and Keep FiscalNote Headquarters in DC",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-announces-new-tech-job-training-opportunities'>Press Release</a><br><a href= 'https://www.bizjournals.com/washington/news/2017/06/22/a-year-later-fiscalnote-on-the-move-again.html'>Washington Business Journal Article</a><br>",
+   "Date": "June 2017",
+   "Business_Unit": "Business Development",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": ""
  },
  {
    "Topic": "BEACON Launches Grant Program",
@@ -280,7 +313,7 @@
    "Details": "\"Underneath It All: An Underground Fashion Showcase\": Dupont Underground and the Commission on Fashion Arts and Events partner with the National Cherry Blossom Festival to curate the first-ever underground fashion show in Washington, D.C., April 15",
    "Links": "<a href= 'https://dmped.dc.gov/release/announcing-first-ever-dc-underground-fashion-show-during-national-cherry-blossom-festival'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=93&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'http://wtop.com/life-style/2017/04/high-fashion-goes-underground-at-dupont-underground-fashion-show/'>WTOP Article</a><br>",
    "Date": "April 2017",
-   "Business_Unit": "Real Estate, Business Development",
+   "Business_Unit": "Real Estate;Business Development",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
@@ -313,7 +346,7 @@
    "Details": "The Business Incentive Wizard offers businesses an easier way to learn about incentives and other programs.",
    "Links": "<a href= 'http://technical.ly/dc/2017/03/08/dmped-incentives-site/'> Article</a><br><a href= 'http://dc.curbed.com/2017/3/1/14779862/dc-washington-data-dmped'>Article</a><br><a href= 'https://incentives.dc.gov/'>Project Website</a><br>",
    "Date": "March 2017",
-   "Business_Unit": "Business Development, Economic Intelligence",
+   "Business_Unit": "Business Development;Economic Intelligence",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
@@ -335,7 +368,7 @@
    "Details": "One of just four cities chosen to begin study visit on public/private program supporting excellence in land use by local governments.",
    "Links": "<a href= 'http://dmped.dc.gov/release/rose-center-public-leadership-joins-washington-dc-mayor-muriel-bowser-st-elizabeth%E2%80%99s-campus'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=139&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'http://stelizabethseast.com/'>Project Website</a><br>",
    "Date": "February 2017",
-   "Business_Unit": "Real Estate, Business Development",
+   "Business_Unit": "Real Estate;Business Development",
    "Job Creation": "&#x2713",
    "Tax Revenue": "",
    "Affordable Housing": "&#x2713",
@@ -390,7 +423,7 @@
    "Details": "Hosted with the DC Chamber and KPMG.",
    "Links": "<a href= 'http://www.economicintelligence.org/'>Project Website</a><br>",
    "Date": "February 2017",
-   "Business_Unit": "Business Development, Economic Intelligence",
+   "Business_Unit": "Business Development;Economic Intelligence",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
@@ -441,7 +474,7 @@
    "Good Gov't": "&#x2713"
  },
  {
-   "Topic": "DMPED attends Consumer Electronic Showcase",
+   "Topic": "DMPED attends Consumer Electronic Showcase in Las Vegas, NV",
    "Details": "Promoted DC, including the fact that we are the first U.S. city to have Food Bots thanks to Starship.",
    "Links": "",
    "Date": "January 2017",
@@ -456,7 +489,7 @@
    "Details": "The DC Council held the final vote approving the surplus and disposition for Fort Totten on Dec. 20. The project will feature affordable homeownership opportunities in a growing area",
    "Links": "<a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=46&rl=3xb\n'>DMPED Project Details Page</a><br>",
    "Date": "December 2016",
-   "Business_Unit": "Real Estate, Legislative",
+   "Business_Unit": "Real Estate;Legislative",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "&#x2713",
@@ -467,7 +500,7 @@
    "Details": "The DC Council held the final vote approving the surplus and disposition of Bruce Monroe on Dec. 20. The project will include 400 affordable housing units, some of which are replacement for Park Morton New Community, and a park.",
    "Links": "<a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=12&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'http://dcnewcommunities.org/community/park-morton/'>Project Website</a><br>",
    "Date": "December 2016",
-   "Business_Unit": "Real Estate, Legislative",
+   "Business_Unit": "Real Estate;Legislative",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "&#x2713",
@@ -478,7 +511,7 @@
    "Details": "The DC Council held the final vote approving the surplus and disposition of Capitol Vista on Dec. 20. The project will include 100 affordable housing units.",
    "Links": "<a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=141&rl=3xb\n'>DMPED Project Details Page</a><br>",
    "Date": "December 2016",
-   "Business_Unit": "Real Estate, Legislative",
+   "Business_Unit": "Real Estate;Legislative",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "&#x2713",
@@ -507,9 +540,9 @@
    "Good Gov't": ""
  },
  {
-   "Topic": "District's first-ever Inclusive Innovation Report released",
-   "Details": "",
-   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-releases-district%E2%80%99s-first-ever-inclusive-innovation-report'>Press Release</a><br><a href= 'https://dmped.dc.gov/page/pathways-inclusion-dc-tech-report'>Project Website</a><br>",
+   "Topic": "BEACON: The DC Women Founders Initiative launch",
+   "Details": "DMPED supported BEACON's launch, as it seeks to make the District the top U.S. city for women innovators and entrepreneurs",
+   "Links": "<a href= 'http://www.prnewswire.com/news-releases/dc-tech-leaders-launch-major-initiative-to-support-women-entrepreneurs-300370510.html'>Press Release</a><br><a href= 'http://dcinno.streetwise.co/2016/11/30/how-beacon-will-solidify-d-c-s-ranking-as-best-for-female-startup-founders/'>DC Inno Article</a><br>",
    "Date": "December 2016",
    "Business_Unit": "Business Development",
    "Job Creation": "&#x2713",
@@ -518,9 +551,9 @@
    "Good Gov't": ""
  },
  {
-   "Topic": "BEACON: The DC Women Founders Initiative launch",
-   "Details": "DMPED supported BEACON's launch, as it seeks to make the District the top U.S. city for women innovators and entrepreneurs",
-   "Links": "<a href= 'http://www.prnewswire.com/news-releases/dc-tech-leaders-launch-major-initiative-to-support-women-entrepreneurs-300370510.html'>Press Release</a><br><a href= 'http://dcinno.streetwise.co/2016/11/30/how-beacon-will-solidify-d-c-s-ranking-as-best-for-female-startup-founders/'>DC Inno Article</a><br>",
+   "Topic": "District's first-ever Pathways to Inclusion Report released",
+   "Details": "",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-releases-district%E2%80%99s-first-ever-inclusive-innovation-report'>Press Release</a><br><a href= 'https://dmped.dc.gov/page/pathways-inclusion-dc-tech-report'>Project Website</a><br>",
    "Date": "December 2016",
    "Business_Unit": "Business Development",
    "Job Creation": "&#x2713",
@@ -654,14 +687,14 @@
    "Details": "As a part of the Economic Strategy work, and in conjunction with the Urban Institute, DMPED held a roundtable to discuss how best to measure and track economic growth and how it is distributed.",
    "Links": "<a href= 'http://www.economicintelligence.org/'>Project Website</a><br>",
    "Date": "September 2016",
-   "Business_Unit": "Business Development, Economic Intelligence",
+   "Business_Unit": "Business Development;Economic Intelligence",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
    "Good Gov't": "&#x2713"
  },
  {
-   "Topic": "Charming Beijing Photo Exhibition",
+   "Topic": "Charming Beijing Photo Exhibition held at Union Station ",
    "Details": "The three day exhibition was held at Union Station's main terminal. It celebrated the 2016 China-U.S. Tourism Year and DC's 32-year sister city relationship with Beijing.",
    "Links": "<a href= 'http://news.xinhuanet.com/english/2016-09/07/c_135668930.htm '> Article</a><br>",
    "Date": "September 2016",
@@ -753,7 +786,7 @@
    "Details": "The $11 million in IRB bonds and  a grant will be used to rehabilitate an office building on MLK Ave for their permanent headquarters and to bring new and improved services to historic Anacostia and Ward 8 including Busboys and Poets Restaurant",
    "Links": "",
    "Date": "June 2016",
-   "Business_Unit": "IRB, Grants",
+   "Business_Unit": "IRB;Grants",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
@@ -995,7 +1028,7 @@
    "Details": "The team of PN Hoffman, Paramount Development, ER Bacon Development, CityPartners and AHC Inc. have won the right to develop Waterfront Station II, a 59,000-square-foot lot at 1000 Fourth St. SW. Their winning plan, designed by Torti Gallas, includes 310 market-rate apartments, 133 affordable units (30 percent of the total), a 10,000-square-foot black box theater and roughly 22,500 square feet of neighborhood-serving retail.",
    "Links": "<a href= 'https://dmped.dc.gov/release/heres-winner-competition-develop-waterfront-station-ii'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=19&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'http://www.bizjournals.com/washington/breaking_ground/2015/10/who-will-develop-the-last-of-the-waterfront.html'> Article</a><br>",
    "Date": "March 2016",
-   "Business_Unit": "Real Estate, Business Development",
+   "Business_Unit": "Real Estate;Business Development",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "&#x2713",
@@ -1006,14 +1039,14 @@
    "Details": "Mayor Muriel Bowser and Deputy Mayor for Planning and Economic Development Brian Kenner hosted DMPED's second annual March Madness to announce new and upcoming projects for the District's development community in an effort to create more quality affordable housing, support small and local business, and expand job opportunities for DC residents.",
    "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-kick-dmped%E2%80%99s-%E2%80%98march-madness%E2%80%99-announce-17-development-projects-001'>Press Release</a><br><a href= 'http://www.bizjournals.com/washington/breaking_ground/2016/03/d-c-to-unleash-dozen-plus-development.html'> Article</a><br>",
    "Date": "March 2016",
-   "Business_Unit": "Real Estate, DMPED Cluster",
+   "Business_Unit": "Real Estate;DMPED Cluster",
    "Job Creation": "&#x2713",
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "&#x2713",
    "Good Gov't": "&#x2713"
  },
  {
-   "Topic": "Howard University Incubator Groundbreaking",
+   "Topic": "Inclusive Innovation Incubator Groundbreaking",
    "Details": "The District's first \"inclusive innovation incubator,\" housed at Howard University, will support entrepreneurs who are typically isolated from the tech industry and provide solutions for communities who lack resources.",
    "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-breaks-ground-howard-university-incubator'>Press Release</a><br><a href= 'http://dcinno.streetwise.co/2015/10/20/howard-universitys-startup-incubator-is-hunting-for-a-leader/'> Article</a><br><a href= 'https://dmped.dc.gov/release/mayor-muriel-bowser-announces-tech-hub-promoting-minority-companies'>Article</a><br>",
    "Date": "March 2016",
@@ -1124,7 +1157,7 @@
  },
  {
    "Topic": "Second Park Morton Planning & Design Workshop Successful and Engaging",
-   "Details": "The workshop focused on four key areas ' 1) Housing Types,  2) Community Services, Amenity and Retail,  3) Open Space and Parks,  and, 4) Design and Program.",
+   "Details": "The workshop focused on four key areas ' 1) Housing Types; 2) Community Services, Amenity and Retail; 3) Open Space and Parks; and, 4) Design and Program.",
    "Links": "<a href= 'http://dmped.dc.gov/release/second-park-morton-planning-design-workshop-successful-and-engaging'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=42&rl=3xb\n'>DMPED Project Details Page</a><br>",
    "Date": "December 2015",
    "Business_Unit": "Real Estate",
@@ -1156,8 +1189,8 @@
    "Good Gov't": ""
  },
  {
-   "Topic": "400 E St SW,  555 E St SW -  Mayor Bowser Opens New Fire Station and Hotel in Southwest",
-   "Details": "$10 million state-of-the-art station will improve emergency services,  214-room hotel will create more jobs in Ward 6",
+   "Topic": "400 E St SW; 555 E St SW -  Mayor Bowser Opens New Fire Station and Hotel in Southwest",
+   "Details": "$10 million state-of-the-art station will improve emergency services; 214-room hotel will create more jobs in Ward 6",
    "Links": "<a href= 'http://dmped.dc.gov/release/mayor-bowser-opens-new-fire-station-and-hotel-sw'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=78&rl=3xb\n'>DMPED Project Details Page</a><br>",
    "Date": "November 2015",
    "Business_Unit": "Real Estate",
