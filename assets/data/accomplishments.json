@@ -1,6 +1,72 @@
 {"data":
 [
  {
+   "Topic": "District Nominated for Amazon's HQ2 Shortlist",
+   "Details": "After Amazon announced its intentions to build a second headquarters in North America, 238 regions sent in a bid to call 'Amazon HQ2' home. That number has now been narrowed down to 20 regions, one of which is Washington, DC.",
+   "Links": "<a href= 'https://www.nytimes.com/2018/01/18/technology/amazon-finalists-headquarters.html'>Press Release</a><br><a href= 'https://www.obviouslydc.com/'>Project Website</a><br>",
+   "Date": "January 2018",
+   "Business_Unit": "DMPED General",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Celebrate the 'Topping Out' for the New Entertainment & Sports Arena at St. Elizabeths East Campus",
+   "Details": "This milestone signifies the completion of the steel structure for the 4,200-seat Arena in the historic Congress Heights neighborhood of Washington, DC.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-events-dc-and-monumental-sports-and-entertainment-smootgilbane-sports-celebrate'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=275&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'http://wjla.com/news/local/topping-out-of-new-entertainment-and-sports-arena-in-southeast-dc'>WJLA Article</a><br><a href= 'http://stelizabethseast.com/entertainment-sports-arena/'>Project Website</a><br>",
+   "Date": "January 2018",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Deputy Mayor Kenner Hosts Second Annual Economic Development Cluster Open House",
+   "Details": "The DMPED Open House gives residents the opportunity to meet agency directors, learn about programs and network with staff.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/deputy-mayor-kenner-host-economic-development-cluster-open-house'>Press Release</a><br>",
+   "Date": "January 2018",
+   "Business_Unit": "DMPED General;DMPED Cluster",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Cut Ribbon at Mixed-Use Development at Former Hine Junior High School",
+   "Details": "Development includes 46 units of affordable housing with 17 units dedicated for seniors.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-cuts-ribbon-mixed-use-development-former-hine-junior-high-school'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=4&rl=3xb\n'>DMPED Project Details Page</a><br>",
+   "Date": "December 2017",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Celebrate Opening of West End Library",
+   "Details": "West End Square 37 includes the new West End Library, is a 325,000 square-foot multi-use building with ground floor retail and 164 residences. ",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-celebrates-opening-west-end-library'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=16&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://dmped.dc.gov/release/glass-encased-west-end-library-opens'>Georgetowner Article</a><br>",
+   "Date": "December 2017",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "DMPED and Mayor Break Ground on Housing and Retail Development in Ward 1",
+   "Details": "New Residential and Retail Development will include 132 Affordable Housing Units and a New Whole Foods Market",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-break-ground-housing-and-retail-development-ward-1'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=63&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://dc.curbed.com/2017/11/29/16715200/shaw-whole-foods-the-wren'>Curbed DC Article</a><br><a href= 'https://www.bisnow.com/washington-dc/news/mixed-use/mrp-realty-jbg-smith-break-ground-on-whole-foods-anchored-shaw-project-82148'>BisnowArticle</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=63'>Project Website</a><br>",
+   "Date": "November 2017",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
    "Topic": "DMPED Selects Developers for Former Eastern Branch Boys and Girls Club ",
    "Details": "Developments will bring multi-generational affordable housing and community benefits to Ward 6 neighborhoods",
    "Links": "<a href= 'https://dmped.dc.gov/release/dmped-selects-developers-former-eastern-branch-boys-and-girls-club-and-northwest-one'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=337&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://dmped.dc.gov/node/1214916'>Project Website</a><br>",
