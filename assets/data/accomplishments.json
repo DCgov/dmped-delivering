@@ -1,6 +1,83 @@
 {"data":
 [
-  {
+ {
+   "Topic": "Bowser Administration Seeks Investment Partner to Develop and Manage Inclusive Innovation Fund",
+   "Details": "This program aims to invest in early stage District businesses led by underrepresented entrepreneurs, including people of color, women, and LGBTQ people and individuals with disabilities.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-seeks-investment-partner-develop-and-manage-inclusive-innovation-fund'>Press Release</a><br><a href= 'https://technical.ly/dc/2018/04/30/dc-seeks-investor-to-run-inclusive-innovation-fund/'>Technical.ly Article</a><br><a href= 'https://dmped.dc.gov/sites/default/files/dc/sites/dmped/publication/attachments/Pathways%20to%20Inclusion%20Report.pdf'>Project Website</a><br>",
+   "Date": "April 2018",
+   "Business_Unit": "Business Development",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner's Office Nominate 25 DC Census Tracts for Federal Opportunity Zone Program",
+   "Details": "Program Supports Investment in Neighborhoods Most in Need of Jobs, Commercial Activity, and Amenities",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-nominates-25-dc-census-tracts-federal-opportunity-zone-program'>Press Release</a><br><a href= 'https://wtop.com/local/2018/04/local-governments-nominate-opportunity-zones-federal-tax-breaks/'>WTOP Article</a><br><a href= 'https://dmped.dc.gov/page/opportunity-zones-washington-dc'>Project Website</a><br>",
+   "Date": "April 2018",
+   "Business_Unit": "Business Development;Economic Intelligence;Executive Office of the Mayor",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser and the Office of the Deputy Mayor for Planning and Economic Development Host Annual March Madness",
+   "Details": "Event highlights upcoming development, contracting and small business opportunities",
+   "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-hosts-annual-march-madness'>Press Release</a><br><a href= 'https://www.bizjournals.com/washington/news/2018/03/27/d-c-to-seek-development-partners-for-four-projects.html'>Washington Business Journal Article</a><br>",
+   "Date": "March 2018",
+   "Business_Unit": "DMPED General",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser Celebrates Revitalization Groundbreaking of 220 Affordable Units at Parkway Overlook",
+   "Details": "Redevelopment of Long-Vacant Parkway Overlook in Congress Heights Will Provide Mostly Family-Sized Affordable Units",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-celebrates-revitalization-groundbreaking-220-affordable-units-parkway-overlook'>Press Release</a><br>",
+   "Date": "March 2018",
+   "Business_Unit": "DMPED Cluster",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Washington, DC Ranks as Nation's Best City for Women in Tech for 4th Consecutive Year",
+   "Details": "The news comes on the heels of Mayor Muriel Bowser and Deputy Mayor for Planning and Economic Development Brian Kenner's recent trip to Silicon Valley to pitch Washington, DC as an ideal location for tech companies and promote the District as the capital of inclusive innovation.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/washington-dc-ranks-nations-best-city-women-tech-4th-consecutive-year'>Press Release</a><br><a href= 'https://smartasset.com/mortgage/best-cities-for-women-in-tech-2018'>SmartAsset Article</a><br>",
+   "Date": "March 2018",
+   "Business_Unit": "DMPED General;Executive Office of the Mayor",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Skyland Town Center Construction Begins",
+   "Details": "The first phase includes construction of 263 units of workforce housing and 80,000 square feet of retail and is expected to be completed in approximately two years.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-announces-financing-complete-skyland-town-center'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=8&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://dmped.dc.gov/release/after-extensive-delays-skyland-town-center-project-now-underway'>Washington Business Journal Article</a><br><a href= 'https://www.skylandtowncenter.com/'>Project Website</a><br>",
+   "Date": "February 2018",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Establish Autonomous Vehicle Working Group",
+   "Details": "Effort Includes Partnership with Southwest Business Improvement District (SWBID) to explore AV Along 10th Street, SW",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-establishes-autonomous-vehicle-working-group'>Press Release</a><br>",
+   "Date": "February 2018",
+   "Business_Unit": "Economic Intelligence;Executive Office of the Mayor",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
    "Topic": "Mayor Bowser and Deputy Mayor Kenner Seek Ideas for Increasing Access to Capital for DC Entrepreneurs",
    "Details": "Fund Aims to Support Underrepresented Entrepreneurs, Particularly Women and People of Color",
    "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-seeks-ideas-increasing-access-capital-dc-entrepreneurs'>Press Release</a><br><a href= 'https://technical.ly/dc/2018/02/07/dc-creating-inclusive-innovation-fund-heres-weigh/'>Technical.ly DC Article</a><br><a href= 'https://dmped.dc.gov/sites/default/files/dc/sites/dmped/release_content/attachments/RFI-DCEB-2018-I-0001-%20Inclusive%20Innovation%20Fund.2.pdf'>Project Website</a><br>",
@@ -21,7 +98,7 @@
    "Tax Revenue": "&#x2713",
    "Affordable Housing": "",
    "Good Gov't": "&#x2713"
- },  
+ },
  {
    "Topic": "District Nominated for Amazon's HQ2 Shortlist",
    "Details": "After Amazon announced its intentions to build a second headquarters in North America, 238 regions sent in a bid to call 'Amazon HQ2' home. That number has now been narrowed down to 20 regions, one of which is Washington, DC.",
