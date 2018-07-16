@@ -1,5 +1,93 @@
 {"data":
 [
+    {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Break Ground on 80 Affordable Apartments for Seniors",
+   "Details": "The Abrams Hall Senior Apartments at The Parks at Walter Reed will Provide Affordable Housing for District Seniors",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-breaks-ground-80-affordable-apartments-seniors'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=1&rl=3xb\n'>DMPED Project Details Page</a><br>",
+   "Date": "July 2018",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Kick Off Renovations at Historic Stevens School",
+   "Details": "Stevens School to open in school year 2020-2021 as child care center and DCPS Early Childhood Education Center",
+   "Links": "<a href= 'https://dmped.dc.gov/release/more-childcare-seats-are-coming-mayor-bowser-kick-renovations-historic-stevens-school'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=11&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://www.bizjournals.com/washington/news/2018/06/19/akridge-partners-and-d-c-finally-break-ground-on.html'>Washington Business Journal Article</a><br>",
+   "Date": "June 2018",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Break Ground on 71 Affordable Apartments in Transit-Oriented Mount Vernon Triangle",
+   "Details": "Administration also Releases Requests for Proposals for Redevelopment of Four Sites, Including Three East of the River",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-breaks-ground-71-affordable-apartments-transit-oriented-mount-vernon-triangle'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=81&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://www.bisnow.com/washington-dc/news/affordable-housing/construction-begins-on-71-unit-affordable-housing-project-in-mount-vernon-triangle-89901'>Bisnow Article</a><br>",
+   "Date": "June 2018",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Mayor Bowser, Deputy Mayor Kenner, and Planet Word Museum to Break Ground on Franklin School",
+   "Details": "The proposed development will transform the historic space into Planet Word, an interactive language arts museum and education space.",
+   "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-and-planet-word-museum-break-ground-franklin-school'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=13&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://dc.curbed.com/2018/6/5/17430574/planet-word-dc-franklin-school'>Curbed DC Article</a><br><a href= 'https://wamu.org/story/18/06/05/heres-d-c-s-new-planet-word-museum-franklin-school-will-look-like/'>WAMUArticle</a><br><a href= 'https://www.bizjournals.com/washington/news/2018/06/05/planet-word-museum-breaks-ground-at-historic.html'>Washington Business JournalArticle</a><br><a href= 'https://www.planetwordmuseum.org/'>Project Website</a><br>",
+   "Date": "June 2018",
+   "Business_Unit": "Real Estate;Executive Office of the Mayor",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Break Ground on Affordable Housing for Veterans on Walter Reed",
+   "Details": "New development on the Parks at Walter Reed will serve formerly homeless veterans",
+   "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-breaks-ground-affordable-housing-veterans-walter-reed'>Press Release</a><br><a href= 'https://octo.quickbase.com/db/bgmd3dpcb?a=dr&rid=339&rl=3xb\n'>DMPED Project Details Page</a><br><a href= 'https://www.washingtonpost.com/news/where-we-live/wp/2018/06/14/massive-redevelopment-coming-to-former-walter-reed-army-medical-center-site-in-northwest/?utm_term=.c3ed58bf4668'>Washington Post Article</a><br><a href= 'http://www.walterreedlra.com/'>Project Website</a><br>",
+   "Date": "May 2018",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Deputy Mayor Brian Kenner Breaks Ground in Parkside Community",
+   "Details": "Celebrating 191 Workforce Housing and Multi-Family Units in Ward 7",
+   "Links": "<a href= 'https://dmped.dc.gov/release/deputy-mayor-brian-kenner-breaks-ground-parkside-community'>Press Release</a><br>",
+   "Date": "May 2018",
+   "Business_Unit": "Real Estate",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "",
+   "Affordable Housing": "&#x2713",
+   "Good Gov't": ""
+ },
+ {
+   "Topic": "Mayor Bowser and Deputy Mayor Kenner Award $2.6 Million to 53 Recipients of 2018 Great Streets Small Business Grants",
+   "Details": "Great Streets Grants Will Support Small Business Growth Across All Eight Wards",
+   "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-awards-26-million-53-recipients-2018-great-streets-small-business-grants'>Press Release</a><br><a href= 'https://greatstreets.dc.gov/'>Project Website</a><br>",
+   "Date": "May 2018",
+   "Business_Unit": "Business Development",
+   "Job Creation": "&#x2713",
+   "Tax Revenue": "&#x2713",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
+ {
+   "Topic": "Deputy Mayor Kenner to Kick Off 4th Annual #innoMAYtion",
+   "Details": "Annual Month-Long Initiative to Highlight People and Companies Shaping Innovation in the District",
+   "Links": "<a href= 'https://dmped.dc.gov/release/deputy-mayor-kenner-kick-%E2%80%98innomaytion%E2%80%99'>Press Release</a><br><a href= 'https://technical.ly/dc/2018/05/02/innomaytion-returns-with-a-chance-to-connect-with-civic-tech/'>Technical.ly DC Article</a><br><a href= 'https://innomaytion.org/'>Project Website</a><br>",
+   "Date": "May 2018",
+   "Business_Unit": "DMPED General",
+   "Job Creation": "",
+   "Tax Revenue": "",
+   "Affordable Housing": "",
+   "Good Gov't": "&#x2713"
+ },
  {
    "Topic": "Bowser Administration Seeks Investment Partner to Develop and Manage Inclusive Innovation Fund",
    "Details": "This program aims to invest in early stage District businesses led by underrepresented entrepreneurs, including people of color, women, and LGBTQ people and individuals with disabilities.",
