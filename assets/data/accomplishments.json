@@ -6,8 +6,8 @@
     "Links": "<a href= 'https://twitter.com/atrueblood/status/1092860514793857024'>",
     "Date": "February, 2019",
     "Business_Unit": "Economic Intelligence",
-    "Job Creation": "FALSE",
-    "Tax Revenue": "FALSE",
+    "Job Creation": "",
+    "Tax Revenue": "",
     "Affordable Housing": "&#x2713",
     "Good Gov't": "&#x2713"
   },
@@ -18,9 +18,9 @@
     "Date": "Feb-18",
     "Business_Unit": "Real Estate",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
+    "Tax Revenue": "",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Ground Breaking In Ward 7 Parkside Community (Corner of",
@@ -29,9 +29,9 @@
     "Date": "May-18",
     "Business_Unit": "Real Estate",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
+    "Tax Revenue": "",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Ground Breaking at Liberty Place Apartments in Mt. Vernon Triangle",
@@ -42,7 +42,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Groundbreaking On Three Multi-Purpose Recreational Fields on the RFK Stadium Campus",
@@ -50,9 +50,9 @@
     "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-and-events-dc-break-ground-three-multi-purpose-recreational-fields-rfk-stadium'>",
     "Date": "Aug-18",
     "Business_Unit": "Real Estate",
-    "Job Creation": "FALSE",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Job Creation": "",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -64,7 +64,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Job Training Partnership for District Residents with Ford Motor Company’s Autonomous Vehicle Program",
@@ -73,8 +73,8 @@
     "Date": "Oct-18",
     "Business_Unit": "Business Development",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -83,9 +83,9 @@
     "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-celebrate-district%E2%80%99s-nomination-amazon%E2%80%99s-hq2-shortlist'>",
     "Date": "Jan-18",
     "Business_Unit": "DMPED General",
-    "Job Creation": "FALSE",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Job Creation": "",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -95,8 +95,8 @@
     "Date": "Jan-18",
     "Business_Unit": "Real Estate",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -106,9 +106,9 @@
     "Date": "Feb-18",
     "Business_Unit": "DMPED General",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Tax Revenue": "",
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "Misson to tech companies on the west coast",
@@ -118,8 +118,8 @@
     "Business_Unit": "Real Estate",
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "Skyland Town Center Construction",
@@ -130,7 +130,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "The Wharf Development Opening",
@@ -141,7 +141,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "ESA Opening",
@@ -162,8 +162,8 @@
     "Business_Unit": "Real Estate",
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "53 Great Streets Grant Recipiants Announced",
@@ -174,7 +174,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Walter Reed Ground Breaking for affordable veteran and senior housing",
@@ -196,7 +196,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "New Neighbrohhood Prosperity Fund Recipients anncounced",
@@ -205,8 +205,8 @@
     "Date": "Oct-17",
     "Business_Unit": "",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -217,7 +217,7 @@
     "Business_Unit": "",
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -227,9 +227,9 @@
     "Date": "Jun-18",
     "Business_Unit": "Real Estate",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Tax Revenue": "",
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "EE100 engagement campaign for top 100 employers in DC",
@@ -237,9 +237,9 @@
     "Links": "<a href= 'https://dmped.dc.gov/release/mayor-bowser-convenes-top-100-local-employers-discuss-strategies-protecting-and-building-dc'>",
     "Date": "Jan-19",
     "Business_Unit": "Business Development",
-    "Job Creation": "FALSE",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Job Creation": "",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -251,7 +251,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Cathay Pacific Launded at Dulles International Airport",
@@ -261,8 +261,8 @@
     "Business_Unit": "DMPED General",
     "Job Creation": "FALSE",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "Ribbion Cutting at the Baldwin of 100% Affordable",
@@ -273,7 +273,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "West End Library & Affordable Housing Opened",
@@ -295,7 +295,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "DC Innovation Fund Inparter Selected",
@@ -304,8 +304,8 @@
     "Date": "Sep-18",
     "Business_Unit": "Business Development",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -316,8 +316,8 @@
     "Business_Unit": "Business Development",
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "Mission to China",
@@ -327,8 +327,8 @@
     "Business_Unit": "Business Development",
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "First Mission to El Salvador",
@@ -338,8 +338,8 @@
     "Business_Unit": "Business Development",
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "Autonomous Vehicle pilot and job training partnership with Ford",
@@ -348,8 +348,8 @@
     "Date": "Oct-18",
     "Business_Unit": "Business Development",
     "Job Creation": "&#x2713",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -360,8 +360,8 @@
     "Business_Unit": "Business Development",
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
-    "Affordable Housing": "FALSE",
-    "Good Gov't": "FALSE"
+    "Affordable Housing": "",
+    "Good Gov't": ""
   },
   {
     "Topic": "Affrodable housing at Former Hine Jr. High Opens",
@@ -372,7 +372,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "4th Annual #innoMAYtion",
@@ -380,9 +380,9 @@
     "Links": "<a href= 'https://dmped.dc.gov/release/bowser-administration-launches-annual-‘innomaytion’'>",
     "Date": "May-18",
     "Business_Unit": "DMPED General",
-    "Job Creation": "FALSE",
-    "Tax Revenue": "FALSE",
-    "Affordable Housing": "FALSE",
+    "Job Creation": "",
+    "Tax Revenue": "",
+    "Affordable Housing": "",
     "Good Gov't": "&#x2713"
   },
   {
@@ -394,7 +394,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Groundbreaking on afforadable housing at St. Elizabeths",
@@ -405,7 +405,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Two TIF's introduced: Rhode Island Ave and Reunion Square",
@@ -416,7 +416,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   {
     "Topic": "Skyland Town Center Construction",
@@ -427,7 +427,7 @@
     "Job Creation": "&#x2713",
     "Tax Revenue": "&#x2713",
     "Affordable Housing": "&#x2713",
-    "Good Gov't": "FALSE"
+    "Good Gov't": ""
   },
   
     {
